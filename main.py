@@ -18,5 +18,5 @@ def user_info():
   return {
   "email": "olola1720@gmail.com",
   "current_datetime":  date_time,
-  "github_url": "<https://github.com/yourusername/your-repo>"
+  "github_url": "https://github.com/Ololaloluwa/HNG_STAGE_0"
 }

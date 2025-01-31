@@ -3,12 +3,12 @@
 ## DESCIPTION
 Devlopment and deployment of a public API that return your registered HNG12 slack workspace, current datetime in ISO 8601 and GitHub URL
 
-## REQUIREMENT
+## INSTALLATION
 Run the code to install requirements needed
 ```sh
   python -m pip install -r Requirements.txt
 ```
-## SETUP 
+## RUN SEVER 
 To start the server,run
 ```sh
     uvicorn main.app --reload

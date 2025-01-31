@@ -18,7 +18,7 @@ To start the server,run
  GET returns email,current datetime is ISO 8601 and the Github URL
 #### Endpoint URL
 ```sh
-
+    https://hngstage0-production-b2cc.up.railway.app/
 ```
 
 ### Example of the required JSON Response Format 
@@ -26,7 +26,7 @@ To start the server,run
 {
   "email": "olola1720@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/Ololaloluwa/HNG_STAGE_0"
 }
 
 ```

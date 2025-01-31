@@ -14,7 +14,7 @@ app.add_middleware(
 
 @app.get("/" ,status_code = status.HTTP_200_OK )
 def user_info():
-  date_time = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+  date_time = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%SZ")
   return {
   "email": "olola1720@gmail.com",
   "current_datetime":  date_time,

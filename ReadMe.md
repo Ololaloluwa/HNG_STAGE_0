@@ -30,5 +30,5 @@ To start the server,run
 }
 
 ```
-## BACKLINKS
+## BACKLINK
 [https://hng.tech/hire/python-developers](https://hng.tech/hire/python-developers)
